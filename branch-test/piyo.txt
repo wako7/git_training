@@ -1,2 +1,3 @@
 piyopiyo
 コミット前の修正
+git diffの検証
